@@ -11,4 +11,4 @@ python paint_circle.py --start_length 100 --end_length 180 --n_edges 6 --pattern
 python paint_color.py --end_length 240 --n_edges 6
 ```
 
-![Screenshot](circle/circle_240_6_-1_monocolor.png)
+![Screenshot](circle_240_6_-1_monocolor.png)
