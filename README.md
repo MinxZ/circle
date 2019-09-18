@@ -10,3 +10,5 @@ python paint_circle.py --start_length 100 --end_length 180 --n_edges 6 --pattern
 
 python paint_color.py --end_length 240 --n_edges 6
 ```
+
+![Alt text](examples/paint_240_4_0_monocolor.eps?raw=true "Examples")
