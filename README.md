@@ -1,5 +1,6 @@
 # circle
 Paint circle in python using turtle
+A present to friend!
 
 Example:
 ```
