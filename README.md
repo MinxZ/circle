@@ -12,5 +12,13 @@ python paint_circle.py --start_length 100 --end_length 180 --n_edges 6 --pattern
 
 python paint_color.py --end_length 240 --n_edges 6
 ```
+Inspired by 
+
+https://www.youtube.com/watch?v=qNn6HQ7xn3M 
+
+https://simpleprogrammer.com/python-generative-art-math/
+
+http://brianaspinall.com/coding-spiral-art-with-python/
 
 ![Screenshot](circle_240_4_0_monocolor.png)
+
